@@ -1,10 +1,3 @@
-##############################################################################################################
-# Dataset : intdef, EuStockMarkets
-# Author : Avraham Yamin, Anusha Pramidala
-# Student ID : 546142, 570858
-# Assignment no. : 4 and 5
-##############################################################################################################
-
 library(wooldridge)
 library(xts)
 library(dplyr)
